@@ -1,6 +1,7 @@
 export const REGISTER_PATH = '/register'
 export const LOGIN_PATH = '/login'
 export const ABOUT_PATH = '/about'
+export const CHAT_PATH = '/chat'
 export const UPDATE_ABOUT_PATH = '/about/update'
 export const INTERESTS_PATH = '/about/interests'
 export const HOME_PATH = '/'
