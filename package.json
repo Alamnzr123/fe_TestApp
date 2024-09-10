@@ -1,5 +1,10 @@
 {
-  "name": "frontend_youapp",
+  "name": "frontend_xxxx",
+  "description": "Front end test for yxxxxx",
+  "author": {
+    "email": "nzr.rahmad@gmail.com",
+    "name": "Rahmad Alamsyah Nazaruddin"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
